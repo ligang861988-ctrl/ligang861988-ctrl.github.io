@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ligang861988-ctrl.github.io/titan-foundations-website/sitemap.xml
